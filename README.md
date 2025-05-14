@@ -8,13 +8,15 @@ This is a more complete version of the Origin Energy front-end coding challenge.
 ✅ The account balance should change color based on the value:  
    - Positive: green  
    - Negative: red  
-   - Zero: grey  
+   - Zero: grey
+
 ✅ Implement a filter for filtering accounts by energy type.  
 ✅ Clicking on the "Make a Payment" button should open a modal with:  
    - title  
    - credit card details  
    - balance  
-   - A "Pay" button  
+   - A "Pay" button
+
 ✅ Implement a search feature to search by account address.  
 
 **(Partial)**  
