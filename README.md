@@ -2,26 +2,26 @@
 
 This is a more complete version of the Origin Energy front-end coding challenge. Total coding time is approx 10 hours to get to this stage. Tasks completed:
 
-✅ Implement a page that renders a list of customer energy accounts.
-✅ Fetch energy accounts from the backend.
-✅ The accounts should be rendered in a Card UI format stacked on top of each other and centered on the page.
-✅ The account balance should change color based on the value:
-   - Positive: green
-   - Negative: red
-   - Zero: grey
-✅ Implement a filter for filtering accounts by energy type.
-✅ Clicking on the "Make a Payment" button should open a modal with:
-   - title
-   - credit card details
-   - balance
-   - A "Pay" button
-✅ Implement a search feature to search by account address.
+✅ Implement a page that renders a list of customer energy accounts.  
+✅ Fetch energy accounts from the backend.  
+✅ The accounts should be rendered in a Card UI format stacked on top of each other and centered on the page.  
+✅ The account balance should change color based on the value:  
+   - Positive: green  
+   - Negative: red  
+   - Zero: grey  
+✅ Implement a filter for filtering accounts by energy type.  
+✅ Clicking on the "Make a Payment" button should open a modal with:  
+   - title  
+   - credit card details  
+   - balance  
+   - A "Pay" button  
+✅ Implement a search feature to search by account address.  
 
-(Partial)
-✅❌ Implement a different page/view that shows a history of payments made.
+**(Partial)**  
+✅❌ Implement a different page/view that shows a history of payments made.  
 
-(Incomplete)
-❌ Clicking the "Pay" button should submit the credit card details to the backend, and on success, show a “Payment Successful” view with a close button.
+**(Incomplete)**    
+❌ Clicking the "Pay" button should submit the credit card details to the backend, and on success, show a “Payment Successful” view with a close button.  
 
 ---
 
@@ -35,7 +35,7 @@ This is a more complete version of the Origin Energy front-end coding challenge.
 
 This project has been hosted using AWS services - please visit the below link or alternatively, view it in your local host.
 
-Link: tbc
+Link: https://master.d3e9w3comsobkt.amplifyapp.com/
 
 ---
 
@@ -47,7 +47,7 @@ With more time, I would do the following:
 - Complete the payment integration to adjust balances
 
 
-Thanks,
+Thanks,  
 Sean Sheridan
 
 --- 
